@@ -1,0 +1,51 @@
+* {
+    /*border:1px solid black;*/
+}
+
+#top {
+	display: inline;
+}
+
+#toptext {
+	font-size: 48px;
+	font-weight: bold;
+	display: inline;
+	position: relative;
+	bottom: 16px;
+}
+
+#icons {
+	float: right;
+	border: 0px;
+	padding: 0px;
+}
+
+#page {
+	padding: 20px 50px;
+}
+
+.crop {
+	text-align: center;
+	overflow: hidden;
+	border: 0px;
+}
+
+.crop img{
+	margin: 0px 0px -170px 0px;
+}
+
+h2 {
+	position: relative;
+	top: 12px;
+}
+
+body {
+	background-image:url('subtle_surface.png');
+	width: 800px;
+	font-family: Verdana;
+}
+
+img {
+	border: 0px;
+	padding: 0px;
+}
