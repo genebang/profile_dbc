@@ -1,0 +1,1 @@
+Dev Bootcamp Summer assignment to write a profile about ourselves in HTML as part of our assessment before entering DBC.
